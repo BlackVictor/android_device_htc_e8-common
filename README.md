@@ -4,7 +4,7 @@
 
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
-| CPU                     | Quad-core 2.5 GHz Krait 400       |
+| CPU                     | Quad-core 2.3 GHz Krait 400       |
 | Chipset                 | Qualcomm MSM8974AC Snapdragon 801 |
 | GPU                     | Adreno 330                        |
 | Memory                  | 2GB RAM                           |
